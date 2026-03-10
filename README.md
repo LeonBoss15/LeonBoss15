@@ -50,12 +50,13 @@
 - Long walks are where I get my best ideas
 - I'd rather have one deep conversation than ten small talks
 - I learn new things just because I find them interesting
+- I love Pokémon — my favorite is Gengar
 
 ---
 
 ## Favorite Projects
 
-**[SubChecker](https://github.com/LeonBoss15/SUBCHECKER)** — My favorite thing I've built. Advanced subdomain enumeration tool — DNS bruteforce across all record types, CNAME takeover detection, AXFR, HTTP probing, crt.sh, email security checks and more. All in one interactive CLI.
+**[SubScan](https://github.com/LeonBoss15/SUBCHECKER)** — My favorite thing I've built. Advanced subdomain enumeration tool — DNS bruteforce across all record types, CNAME takeover detection, AXFR, HTTP probing, crt.sh, email security checks and more. All in one interactive CLI.
 
 ---
 
