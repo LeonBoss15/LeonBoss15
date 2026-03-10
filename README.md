@@ -1,6 +1,6 @@
 👋 Hey there!
 
-I'm Leon, a 16-year-old Full Stack Minecraft Developer from Germany with over 2 years of experience.
+I'm Leon, a 15-year-old Full Stack Minecraft Developer from Germany with over 2 years of experience.
 
 I build clean, optimized and scalable Minecraft systems with a strong focus on performance and modern design.
 
