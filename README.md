@@ -1,6 +1,6 @@
 # Hey, I'm Leon 👋
 
-15-year-old Developer from Germany — building clean, performant and scalable systems with a strong focus on Minecraft backend development and modern tooling.
+16-year-old Developer from Germany — building clean, performant and scalable systems with a strong focus on Minecraft backend development and modern tooling.
 
 ---
 
